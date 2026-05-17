@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 
 ---
 
@@ -87,4 +85,4 @@ Check out my repositories for:
 
 *Last updated: May 2026*
 
--->
+
