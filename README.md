@@ -52,7 +52,7 @@ I'm always interested in discussing:
 ### Find Me On:
 - **GitHub:** [github.com/sjohnson711](https://github.com/sjohnson711)
 - **LinkedIn:** [Seth Johnson](https://www.linkedin.com/in/seth-johnson-10a6a217b/)
-- **Live Projects:** [personal-website-kgm3...vercel.app](https://personal-website-kgm3-pk0mkcked-seths-projects-4bb15efa.vercel.app/****)
+- **Live Projects:** [personal-website-kgm3...vercel.app](https://personal-website-kgm3-pk0mkcked-seths-projects-4bb15efa.vercel.app)
 
 ---
 
