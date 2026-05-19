@@ -5,6 +5,8 @@
 ## 🌱 Learning & Growth
 **Highlighted Personal Vlog/Book Site**
 - **Live Projects:** [personal-website-kgm3...vercel.app](https://personal-website-kgm3-pk0mkcked-seths-projects-4bb15efa.vercel.app)
+<img width="1352" height="725" alt="image" src="https://github.com/user-attachments/assets/e5decbba-49d6-48c5-99b3-2bd901a21c79" />
+
 
 Currently focused on:
 - **Advanced TypeScript patterns** — Generics, utility types, conditional types
