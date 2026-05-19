@@ -3,6 +3,8 @@
 ---
 
 ## 🌱 Learning & Growth
+**Highlighted Personal Vlog/Book Site**
+- **Live Projects:** [personal-website-kgm3...vercel.app](https://personal-website-kgm3-pk0mkcked-seths-projects-4bb15efa.vercel.app)
 
 Currently focused on:
 - **Advanced TypeScript patterns** — Generics, utility types, conditional types
@@ -15,9 +17,9 @@ Currently focused on:
 ## 📚 Other Notable Projects
 
 ### Python & Data
-- **[Applied AI System Project](https://github.com/sjohnson711/applied-ai-system-project)** — AI/ML systems design
+- **[Applied AI System Project](https://github.com/sjohnson711/applied-ai-system-project)** — AI/ML systems design, Pet2Go -> Pet Management System - Full Stack Project 
 - **[A110 Music Recommender](https://github.com/sjohnson711/A110-MusicRecommender)** — Music recommendation algorithm
-- **[Pet Management System](https://github.com/sjohnson711/Pet_Management)** — Python backend system
+
 
 ### JavaScript/Web
 - **[Final Movie App](https://github.com/sjohnson711/final-movie-app)** — Movie database web app
@@ -52,7 +54,7 @@ I'm always interested in discussing:
 ### Find Me On:
 - **GitHub:** [github.com/sjohnson711](https://github.com/sjohnson711)
 - **LinkedIn:** [Seth Johnson](https://www.linkedin.com/in/seth-johnson-10a6a217b/)
-- **Live Projects:** [personal-website-kgm3...vercel.app](https://personal-website-kgm3-pk0mkcked-seths-projects-4bb15efa.vercel.app)
+
 
 ---
 
